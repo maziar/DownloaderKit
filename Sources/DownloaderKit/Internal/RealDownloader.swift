@@ -12,6 +12,7 @@ import RxRelay
 import RxRealm
 import RxAlamofire
 import Alamofire
+import UIKit
 
 /// The command that enqueues a download request or cancel by identifier or cancel all.
 internal enum Command {
