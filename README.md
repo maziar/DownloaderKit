@@ -1,4 +1,4 @@
-# DownloaderKit (Petrus Hoc's Downloader)
+# DownloaderKit (Maziar's Downloader)
 Simple, reactive and functional downloader for iOS Swift with the power of `RxSwift`, `RxAlamofire`.
 RxSwift Downloader.
 RxDownloader.
