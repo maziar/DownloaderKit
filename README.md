@@ -26,7 +26,7 @@ pod 'DownloaderKit'
 
 ## Author
 
-Petrus Nguyễn Thái Học, maziar@gmail.com
+Maziar Saadatfar, maziar.saadatfar@gmail.com
 
 ## Usagement
 
